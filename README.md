@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chamlee25
 - 👀 I’m interested in coding and games
-- 🌱 I’m currently learning java and c# (unity)
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on anything interesting where I can help
 
 
